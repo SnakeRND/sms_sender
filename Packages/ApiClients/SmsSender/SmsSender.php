@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Packages\ApiClients\IntellinSms;
+namespace App\Packages\ApiClients\SmsSender;
 
 use App\Packages\ApiClients\IntellinSms\Responses\SendSmsResponseData;
 use App\Packages\Exceptions\SmsSendException;

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Packages\ApiClients\IntellinSms\Responses;
+namespace App\Packages\ApiClients\SmsSender\Responses;
 
 use Spatie\LaravelData\Attributes\MapInputName;
 use Spatie\LaravelData\Data;
